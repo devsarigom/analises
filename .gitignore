@@ -1,0 +1,4 @@
+﻿**/dados/
+*.duckdb
+*.duckdb.wal
+.ipynb_checkpoints/
